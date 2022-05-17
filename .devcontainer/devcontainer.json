@@ -1,0 +1,4 @@
+{
+    "name": "Go Demo",
+    "image": "mcr.microsoft.com/vscode/devcontainers/go:1.16-bullseye"
+}
